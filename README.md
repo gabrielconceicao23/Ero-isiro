@@ -3,8 +3,6 @@
 Uma calculadora simples, responsiva e elegante feita com **HTML**, **CSS** e **JavaScript**.  
 Inspirada por um visual moderno em **modo escuro**, ideal para estudos, demonstrações ou uso pessoal.
 
-![Calculadora Screenshot](https://raw.githubusercontent.com/gabrielconceicao23/Ero-isiro/main/Imagens/Ferpinha.ico)
-
 ---
 
 ## ✨ Recursos
@@ -43,20 +41,18 @@ Inspirada por um visual moderno em **modo escuro**, ideal para estudos, demonstr
 
     JavaScript (puro)
 
-
+---
 👤 Autor
 
 Gabriel da Costa Conceição
 📧 gabrielconceicao23
-💼 LinkedIn (opcional)
-🌐 Portfólio (opcional)
+
+---
 📄 Licença
 
 Este projeto está sob a licença MIT – sinta-se livre para usar, modificar e compartilhar!
-Leia a licença completa aqui (adicione o arquivo se desejar).
-
-
+---
 🌍 Acesse online
 
-Se você ativar o GitHub Pages, sua calculadora ficará disponível em:
+A calculadora está disponível em:
 👉 https://gabrielconceicao23.github.io/Ero-isiro/
