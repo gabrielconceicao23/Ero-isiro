@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <title>Ẹrọ iṣiro - Calculadora</title>
+  <link rel="stylesheet" href="css/estilo.css">
+  <link rel="icon" href="Imagens/Ferpinha.ico" type="image/x-icon">
+</head>
+<body>
+  <div class="calculator">
+    <div class="display">
+      <input type="text" id="result" value="0" disabled>
+    </div>
+    <div class="buttons">
+      <button onclick="appendToResult('1')">1</button>
+      <button onclick="appendToResult('2')">2</button>
+      <button onclick="appendToResult('3')">3</button>
+      <button onclick="appendToResult('+')" class="operacao">+</button>
+      
+      <button onclick="appendToResult('4')">4</button>
+      <button onclick="appendToResult('5')">5</button>
+      <button onclick="appendToResult('6')">6</button>
+      <button onclick="appendToResult('-')" class="operacao">-</button>
+      
+      <button onclick="appendToResult('7')">7</button>
+      <button onclick="appendToResult('8')">8</button>
+      <button onclick="appendToResult('9')">9</button>
+      <button onclick="appendToResult('*')" class="operacao">*</button>
+      
+      <button onclick="appendToResult('.')">.</button>
+      <button onclick="appendToResult('0')">0</button>
+      <button onclick="appendToResult('%')">%</button>
+      <button onclick="appendToResult('/')" class="operacao">/</button>
+       
+      <button onclick="clearResult()" class="acao">C</button>
+      <button onclick="calculateResult()" class="acao">=</button>
+    </div>
+  </div>
+  <script src="js/script.js"></script>
+</body>
+</html>
